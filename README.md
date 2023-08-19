@@ -8,4 +8,4 @@ Este é um jogo de xadrez jogado diretamente no console, como em um jogo casual 
 
 ### Aprendizado na Prática:
 
-Cada desafio encontrado durante o desenvolvimento foi uma oportunidade de aprendizado. Como no xadrez há diversas possibilidades de jogadas. Foi um desafio implementar cada uma delas e pensar nos possíveis erros que poderiam dar. Neste projeto treinei bastante minhas habilidades com Estrutura de dados, Orientação a Objetos(Herança, polimorfismo, classes, métodos, construtores, sobrecarga, encapsulamento), Tratamento de exceções, além de praticar git e github.
+Assim como no xadrez, há diversas possibilidades de jogadas. Para mim, foi um desafio implementar cada uma delas e considerar os possíveis erros que poderiam surgir. Neste projeto, pude aprimorar significativamente minhas habilidades em Estrutura de Dados, Orientação a Objetos (herança, polimorfismo, classes, métodos, construtores, sobrecarga e encapsulamento), Tratamento de Exceções, além de praticar o uso do Git e do GitHub.
